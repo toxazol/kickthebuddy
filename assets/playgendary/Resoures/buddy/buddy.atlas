@@ -1,0 +1,146 @@
+
+buddy.png
+size: 695,695
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buddy_Body
+  rotate: false
+  xy: 2, 445
+  size: 206, 248
+  orig: 206, 248
+  offset: 0, 0
+  index: -1
+Buddy_Foot_R
+  rotate: true
+  xy: 560, 305
+  size: 164, 133
+  orig: 164, 133
+  offset: 0, 0
+  index: -1
+Buddy_Hand_R
+  rotate: false
+  xy: 336, 30
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Buddy_Hand_Snoop_Dogg
+  rotate: false
+  xy: 336, 152
+  size: 129, 132
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+Buddy_Head
+  rotate: false
+  xy: 378, 471
+  size: 185, 222
+  orig: 185, 222
+  offset: 0, 0
+  index: -1
+Buddy_Shadow
+  rotate: true
+  xy: 226, 15
+  size: 270, 108
+  orig: 270, 108
+  offset: 0, 0
+  index: -1
+Buddy_hand
+  rotate: true
+  xy: 378, 358
+  size: 111, 180
+  orig: 111, 180
+  offset: 0, 0
+  index: -1
+Buddy_hand_L_1
+  rotate: false
+  xy: 210, 287
+  size: 144, 160
+  orig: 144, 160
+  offset: 0, 0
+  index: -1
+Buddy_mimic_10_A-rest
+  rotate: false
+  xy: 356, 286
+  size: 163, 70
+  orig: 163, 70
+  offset: 0, 0
+  index: -1
+Buddy_mimic_12_rest-M
+  rotate: true
+  xy: 467, 130
+  size: 154, 53
+  orig: 154, 53
+  offset: 0, 0
+  index: -1
+Buddy_rope_TILED_1
+  rotate: true
+  xy: 336, 2
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+black_body
+  rotate: false
+  xy: 2, 203
+  size: 206, 240
+  orig: 206, 240
+  offset: 0, 0
+  index: -1
+black_hand
+  rotate: false
+  xy: 522, 184
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+black_head
+  rotate: true
+  xy: 2, 16
+  size: 185, 222
+  orig: 185, 222
+  offset: 0, 0
+  index: -1
+black_leg
+  rotate: true
+  xy: 565, 534
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1
+black_neck
+  rotate: true
+  xy: 640, 247
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+candy
+  rotate: false
+  xy: 210, 449
+  size: 166, 244
+  orig: 166, 244
+  offset: 0, 0
+  index: -1
+eyes/Buddy_eyes_ZZZ_4
+  rotate: true
+  xy: 522, 130
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+fingers
+  rotate: true
+  xy: 458, 42
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+ropes/Buddy_rope_NECK
+  rotate: false
+  xy: 565, 486
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
